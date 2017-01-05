@@ -1,6 +1,6 @@
-# AnglimModifiedProjectTemplate (v 0.5)
+# Ry-Project-Template
 
-ProjectTemplate is an R Package which facilitates data analysis with R. It makes it easy to start a new data analysis project. In short, **ProjectTemplate is awesome and worth learning**.
+This is a modification of AnglimModifiedProjectTemplate (v 0.5), and the following information is from this repository. ProjectTemplate is an R Package which facilitates data analysis with R. It makes it easy to start a new data analysis project. In short, **ProjectTemplate is awesome and worth learning**.
 
 I have modified the default ProjectTemplate folder structure to align more with my workflow. 
 However, I think these tweaks should be useful for others.
